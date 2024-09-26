@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Roboto';
+    /* border :1px solid black; */
+    box-sizing: border-box;
+    /* overflow0: hidden; */
+    /* align-items: top; */
+}
+div{
+    display: block;
+}
+
